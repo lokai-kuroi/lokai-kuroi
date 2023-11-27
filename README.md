@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**lokai-kuroi/lokai-kuroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moin :D
 
-Here are some ideas to get you started:
+Ich bin Lokai und studiere derzeit Informatik an der Hochschule Bremerhaven - University of Applied Sciences.
+Auf diesem Profil werde ich hauptsächlich Projekte aus meinem Studium und passende zum Studium teilen, es können aber auch andere Projekte dabei sein. Ich stehe immer offen für Zusammenarbeit und neue Projekte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studiensprachen:
+Java
+C++
+HTML+CSS
+ShellScript
+
+Außerhalb meines Studiums mache ich eigentlich nicht so viel. Ich spiele gerne Videospiele oder beschäftige mich mit Informatik. Ich lese gerne Manga und schaue auch Animes.
+
+Kontaktmöglichkeit:
+lokai.kuroi@gmail.com
