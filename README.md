@@ -12,6 +12,7 @@ HTML+CSS
 ShellScript
 
 Außerhalb meines Studiums mache ich eigentlich nicht so viel. Ich spiele gerne Videospiele oder beschäftige mich mit Informatik. Ich lese gerne Manga und schaue auch Animes.
+Seit neustem beginne ich wieder mit der Entwicklung für FiveM.
 
 Kontaktmöglichkeit:
 lokai.kuroi@gmail.com
