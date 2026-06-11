@@ -1,18 +1,15 @@
-### Hi there 👋
+# Hit there | Moin
 
-Moin
+I'm Lokai -- Student of the University of Applied Sciences at Bremerhaven.
+Currently there is nothing much public projects on this profile, 
+but who knows, maybe you got an idea and we can cooperate and make some great projects.
 
-Ich bin Lokai und studiere derzeit Informatik an der Hochschule Bremerhaven - University of Applied Sciences.
-Auf diesem Profil werde ich hauptsächlich Projekte aus meinem Studium und passende zum Studium teilen, es können aber auch andere Projekte dabei sein. Ich stehe immer offen für Zusammenarbeit und neue Projekte.
+## Skills 
 
-Studiensprachen:
-Java
-C++
-HTML+CSS
-ShellScript
+- Languages: **German**, **English**
+- Main Programming Languages: **Java**, **Rust**
+- Interested in Software architecure, Systemprogramming and Backend
 
-Außerhalb meines Studiums mache ich eigentlich nicht so viel. Ich spiele gerne Videospiele oder beschäftige mich mit Informatik. Ich lese gerne Manga und schaue auch Animes.
-Seit neustem beginne ich wieder mit der Entwicklung für FiveM.
+## Contact
 
-Kontaktmöglichkeit:
-lokai.kuroi@gmail.com
+- Email: [lokai.kuroi](mailto:lokai.kuroi@gmail.com)
